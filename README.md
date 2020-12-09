@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning programming in general.
 
-- 👨‍💻 All of my projects are available at [https://procrastinationbilly.github.io/](https://procrastinationbilly.github.io/) **Not finished yet**
+- 👨‍💻 All of my projects are available at [https://procrastinationbilly.github.io/](https://procrastinationbilly.github.io/) (**Not finished yet**)
 
 - ⚡ Fun fact I procrastinate on the daily. Who would've guessed with my username, amirite? 
 
